@@ -13,7 +13,8 @@ https://data.ncaa.com/casablanca/game/5893973/gameInfo.json
 Monthly Schedule
 https://data.ncaa.com/casablanca/schedule/icehockey-men/d1/2021/10/schedule-all-conf.json
 
-
+Scoreboard - Atlantic Hockey
+https://data.ncaa.com/casablanca/schedule/icehockey-men/d1/2021/10/schedule-atlantic-hockey.json
 
 
 
@@ -26,3 +27,11 @@ https:\/\/data.ncaa.com\/stats\/icehockey-men\/d1\/current\/stats-i.json
 https:\/\/data.ncaa.com\/stats\/icehockey-men\/d1\/current\/stats-t.json
 
 https://data.ncaa.com/casablanca/schedule/icehockey-men/d1/today.json
+
+
+
+
+
+
+
+look at json-cdn.uscho.com?
