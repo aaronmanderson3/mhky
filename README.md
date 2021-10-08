@@ -10,6 +10,13 @@ https://data.ncaa.com/casablanca/scoreboard/icehockey-men/d1/2021/10/08/scoreboa
 Game Info
 https://data.ncaa.com/casablanca/game/5893973/gameInfo.json
 
+Monthly Schedule
+https://data.ncaa.com/casablanca/schedule/icehockey-men/d1/2021/10/schedule-all-conf.json
+
+
+
+
+
 https://data.ncaa.com/casablanca/live-today.json
 
 https://data.ncaa.com/stats/icehockey-men/d1/current/174/p1.json
